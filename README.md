@@ -27,3 +27,10 @@ Food/drinks that I would recommend someone try.
 | French fries | McDonalds|$3.00 |
 | Burger       | McDonalds|$3.00 |
 | chocolet milk| canteen  |free  |
+
+---
+
+## Pithy Quotes.
+> I will never be happy without having someone. Going to sleep alone kills me.
+> Life is too short for long-term grudges.
+Author is *Elon Musk*
