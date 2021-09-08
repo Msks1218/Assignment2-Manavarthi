@@ -16,3 +16,13 @@ It is **my** **native** place where I was born.
     * Indian Currency.
     * No need to bring anything we have everything for enjoyment.
 [VIP](Aboutme.md)
+
+---
+
+## Table creation.
+Food/drinks that I would recommend someone try.
+| Food+/Drinks | Location | Cost |
+|--------------|----------|------|
+| pepsi        | Canteen  |free  |
+| French fries | McDonalds|$3.00 |
+| Burger       | McDonalds|$3.00 |
