@@ -49,7 +49,9 @@ Food/drinks that I would recommend someone try.
 [Link to the source](https://en.wikipedia.org/wiki/Fibonacci_number)
 Code for Fibonacci series
 
-pair<int, int> fib (int n) {
+
+    pair<int, int> fib (int n) 
+    {
     if (n == 0)
         return {0, 1};
 
@@ -60,6 +62,6 @@ pair<int, int> fib (int n) {
         return {d, c + d};
     else
         return {c, d};
-}
+    }
 
 [Quick link for the code](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
