@@ -36,3 +36,30 @@ Food/drinks that I would recommend someone try.
 > Life is too short for long-term grudges.
 
 -*Elon Musk*
+
+---
+
+## Code Fencing
+> Fibonacci numbers are named after the Italian mathematician Leonardo of Pisa, later known as Fibonacci.
+
+>The Fibonacci sequence appears in Indian mathematics in connection with Sanskrit prosody, as pointed out by Parmanand Singh in 1986.
+
+>The Fibonacci sequence appears in Indian mathematics in connection with Sanskrit prosody, as pointed out by Parmanand Singh in 1986.
+
+[Link to the source](https://en.wikipedia.org/wiki/Fibonacci_number)
+Code for Fibonacci series
+
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+
+[Quick link for the code](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
