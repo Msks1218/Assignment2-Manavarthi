@@ -1,8 +1,10 @@
 # Assignment2-Manavarthi
-# Sanjay krishna Manavarthi.
-## My village <br>
+## Sanjay krishna Manavarthi.
+### My village <br>
 It is **my** **native** place where I was born.
-------
+
+---
+
 ## Journey from maryville to Nizamabad.
 1. Firstly, book flight ticket from kansas to Hyderabad, Now arrange a ride from Maryville to Kansas    city International Airport.
     1. get your boarding passes and drop your luggage for checkin.
