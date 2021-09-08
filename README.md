@@ -26,3 +26,4 @@ Food/drinks that I would recommend someone try.
 | pepsi        | Canteen  |free  |
 | French fries | McDonalds|$3.00 |
 | Burger       | McDonalds|$3.00 |
+| chocolet milk| canteen  |free  |
