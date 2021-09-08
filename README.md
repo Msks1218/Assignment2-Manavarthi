@@ -21,7 +21,7 @@ It is **my** **native** place where I was born.
 
 ## Table creation.
 Food/drinks that I would recommend someone try.
-| Food+/Drinks | Location | Cost |
+| Food/Drinks | Location | Cost |
 |--------------|----------|------|
 | pepsi        | Canteen  |free  |
 | French fries | McDonalds|$3.00 |
