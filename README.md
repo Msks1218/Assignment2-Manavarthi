@@ -31,6 +31,7 @@ Food/drinks that I would recommend someone try.
 ---
 
 ## Pithy Quotes.
-> I will never be happy without having someone. Going to sleep alone kills me.
+> I will never be happy without having someone.Going to sleep alone kills me.
+
 > Life is too short for long-term grudges.
-Author is *Elon Musk*
+-*Elon Musk*
